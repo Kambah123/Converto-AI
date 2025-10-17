@@ -1,0 +1,18 @@
+{
+  "name": "Pechal - AI Business Automation Bangladesh",
+  "short_name": "Pechal",
+  "description": "AI business automation with chatbots and AI agents for customer calls in Bangladesh",
+  "icons": [
+    {
+      "src": "/updated logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#111111",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "lang": "bn",
+  "dir": "ltr"
+} 
